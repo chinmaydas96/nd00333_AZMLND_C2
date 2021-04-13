@@ -79,6 +79,9 @@
 ![](images/automl_start.png)
 
 ---
+![](images/automl_end.png)
+
+---
 
 ![](images/automl_experiment.png)
 
@@ -87,7 +90,7 @@
 
 3. The best model was VotingEnsamble 
 
-![](images/best_model.png)
+![](images/best_model1.png)
 
 ---
 
