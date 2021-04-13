@@ -62,7 +62,7 @@
 
 ---
 
-![](image/auth.png)
+![](images/auth.png)
 
 ---
 
