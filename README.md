@@ -12,8 +12,30 @@
 
 
 ## Architectural Diagram
+
+* The dataset contains data about phone calls to the customer from a marketing campaigns organised by a bank. So the task to predict if the user will suscribe(1) or not(0).
+
+* So this is a classification problem that we will be solving by Azure ML.
+
+* First we will start the AutoML experiment by uploading the given dataset.
+
+* Then the AutoML will choose best model with optimum parameters, then we will deploy the best model.
+
+* We will enable logging through Application Insights service by updating the service.
+
+* After deployment, we will download the swagger.json file in order to get information about end-points URL.
+
+* Then we will comsume the end-point by http request with authentication key.
+
+* Finally we will implement all these steps using Python SDK.
+
+---
+
+* Following is the architecture of the project :
+
 ![](images/arc.png)
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+
+---
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
