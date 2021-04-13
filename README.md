@@ -70,7 +70,7 @@
 
 1. Upload the dataset in Azure ML studio.
 
-![](image/dataset.png)
+![](images/dataset.png)
 
 ---
 
