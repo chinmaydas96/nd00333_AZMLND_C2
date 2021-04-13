@@ -80,7 +80,7 @@
 
 ---
 
-![](images/automl_experiement.png)
+![](images/automl_experiment.png)
 
 ---
 
