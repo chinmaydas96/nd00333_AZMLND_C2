@@ -76,9 +76,14 @@
 
 2. Creat a AutoML experiment with the given data.
 
-![](images/automl.png)
+![](images/automl_start.png)
 
 ---
+
+![](images/automl_experiement.png)
+
+---
+
 
 3. The best model was VotingEnsamble 
 
