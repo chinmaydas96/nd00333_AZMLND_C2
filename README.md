@@ -203,3 +203,12 @@
 ## Screen Recording
 
 [Link](https://www.youtube.com/watch?v=YzuQHDOCGz8) to the Demo.
+
+
+## Future Improvement
+
+* We can try to increase the dataset to improve the model.
+
+* We can export this model to ONNX for faster inference.
+
+* We can include deep learning model in order get good model accuracy. 
