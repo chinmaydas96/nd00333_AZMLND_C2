@@ -110,6 +110,10 @@
 
 ---
 
+![](images/deploy_model4.png)
+
+---
+
 ### Step 4: Enable Application Insights
 
 1. Changes the code to update Application insights. then we will run the logs.py to check the log.
@@ -193,6 +197,10 @@
 ### Step 7: Create, Publish and Consume a Pipeline using python SDK
 
 1. We will run the notebook, and check if the pipeline is created. 
+
+![](images/experiment_sdk.png)
+
+---
 
 ![](images/pipeline.png)
 

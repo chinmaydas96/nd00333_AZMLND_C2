@@ -70,4 +70,4 @@
 # Total:        114  160  28.0    172     199#
 
 
- ab -n 10 -v 4 -p data.json -T 'application/json' -H 'Authorization: Bearer uKhRwz1TsoFPb9Wm5jLUqRqsxCtgiOef' http://e48b96f0-8582-45e6-829d-c2c38da21910.eastus2.azurecontainer.io/score
+ ab -n 10 -v 4 -p data.json -T 'application/json' -H 'Authorization: Bearer W0SjpyjGTYaxblrsrQVW4JXlWusEBJmj' http://3b8c8dd1-a3da-46e0-941e-e2a11c81d804.eastus2.azurecontainer.io/score
