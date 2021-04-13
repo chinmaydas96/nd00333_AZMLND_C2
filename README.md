@@ -98,7 +98,15 @@
 
 1. Deploy the best model.
 
-![](images/deploy_model.png)
+![](images/deploy_model1.png)
+
+---
+
+![](images/deploy_model2.png)
+
+---
+
+![](images/deploy_model3.png)
 
 ---
 
