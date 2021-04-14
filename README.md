@@ -226,7 +226,11 @@
 
 5. Publish a pipeline
 
-![](images/)
+![](images/publish_pipeline.png)
+
+---
+
+![](images/publish_pipeline1.png)
 
 ## Screen Recording
 
