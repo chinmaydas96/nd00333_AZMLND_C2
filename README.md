@@ -212,7 +212,7 @@
 
 ---
 
-3. Pipeline Endpoint
+3. Pipeline Endpoint with Status Active
 
 ![](images/pipeline_endpoint.png)
 
@@ -223,6 +223,10 @@
 ![](images/pipeline_notebook.png)
 
 ---
+
+5. Publish a pipeline
+
+![](images/)
 
 ## Screen Recording
 
